@@ -2,7 +2,7 @@
 
 ### 💻 Desarrollador de Software Junior
 
-Soy **Técnico Superior en Desarrollo de Software**, con una base sólida en desarrollo web y móvil.
+Soy **Técnico Superior en Desarrollo de Software**, con una base sólida en desarrollo web.
 
 Me enfoco principalmente en la creación de aplicaciones y sistemas utilizando **JavaScript, TypeScript, Angular, PHP, SQL y C#**. Actualmente continúo formándome y desarrollando proyectos para ampliar mis conocimientos y experiencia profesional.
 
@@ -14,7 +14,7 @@ Me enfoco principalmente en la creación de aplicaciones y sistemas utilizando *
 ## 🚀 Sobre mí
 
 * 🎓 Técnico Superior en Desarrollo de Software
-* 💻 Desarrollo web y aplicaciones móviles
+* 💻 Desarrollo web
 * 🧩 Experiencia creando sistemas CRUD y aplicaciones de gestión
 * 🗄️ Diseño y trabajo con bases de datos
 * 🎮 Desarrollo de videojuegos con Unity y C#
