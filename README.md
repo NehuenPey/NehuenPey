@@ -1,156 +1,109 @@
-# 👋 Hola, soy Nehuén Peyrano
+# Hola, soy Nehuén Peyrano
 
-### 💻 Desarrollador de Software Junior
+**Desarrollador de Software | Full Stack**
 
-Soy **Técnico Superior en Desarrollo de Software**, con una base sólida en desarrollo web.
+Técnico Superior en Desarrollo de Software, orientado al desarrollo de aplicaciones web y APIs. Trabajo principalmente con **C#, ASP.NET Core, JavaScript, TypeScript, Node.js y SQL**, construyendo soluciones que integran frontend, backend y bases de datos.
 
-Me enfoco principalmente en la creación de aplicaciones y sistemas utilizando **JavaScript, TypeScript, Angular, PHP, SQL y C#**. Actualmente continúo formándome y desarrollando proyectos para ampliar mis conocimientos y experiencia profesional.
+Me interesa desarrollar software mantenible, resolver problemas reales y seguir fortaleciendo mis habilidades mediante proyectos individuales y colaborativos.
 
-📍 Santa Fe, Argentina
-🌐 Portfolio: https://peyrano-nehuendev.vercel.app/
-
----
-
-## 🚀 Sobre mí
-
-* 🎓 Técnico Superior en Desarrollo de Software
-* 💻 Desarrollo web
-* 🧩 Experiencia creando sistemas CRUD y aplicaciones de gestión
-* 🗄️ Diseño y trabajo con bases de datos
-* 🎮 Desarrollo de videojuegos con Unity y C#
-* 🤝 Experiencia trabajando en equipos de desarrollo
-* 📚 Actualmente realizando formación Full Stack
-* 🔄 En constante aprendizaje y crecimiento profesional
+- Ubicación: Rosario, Santa Fe, Argentina
+- Portfolio: [nehuenpeyranodev.vercel.app](https://nehuenpeyranodev.vercel.app/)
+- LinkedIn: [linkedin.com/in/nehuenpeyrano](https://www.linkedin.com/in/nehuenpeyrano)
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
-### Lenguajes
+**Lenguajes**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,php,html,css" />
-</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Frameworks y herramientas
+**Frameworks y plataformas**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,unity,git,github" />
-</p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-### Bases de datos
+**Bases de datos**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Metodologías
+**Herramientas y prácticas**
 
-`SCRUM` · `Jira` · `UML`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
----
-
-## 🚧 Proyecto actual
-
-### 🛋️ E-Commerce — Mueblería Hermanos Jota
-
-Actualmente estoy desarrollando este proyecto **junto a un equipo de compañeros**, como parte del **curso de Full Stack de Santander**.
-
-El objetivo es desarrollar la experiencia completa de un e-commerce utilizando tecnologías del lado del cliente, con una interfaz **atractiva, interactiva y responsive**.
-
-El proyecto incluye:
-
-* 🏠 Página de inicio
-* 🛋️ Catálogo de productos
-* 🔎 Detalle de productos
-* 🛒 Carrito de compras simulado
-* 📩 Formulario de contacto
-* 🔄 Renderizado dinámico mediante JavaScript
-* 📱 Diseño responsive / Mobile First
-* ⚡ Carga simulada de datos
-* 🎯 Interacción mediante eventos y manipulación del DOM
-* 👥 Trabajo colaborativo utilizando Git y GitHub
-
-**Tecnologías:**
-
-`HTML5` `CSS3` `JavaScript` `Git` `GitHub`
-
-🔗 [Ver repositorio](https://github.com/Marquitoslopez/trabajo-grupal-itbacon)
+`Git · GitHub · Jira · Scrum · APIs REST · Entity Framework Core · Mongoose · OpenAPI`
 
 ---
 
-## 📌 Otros proyectos
+## Proyectos destacados
 
-### 📱 To-Do List
+### GestionInmobiliariaAPI
+**API REST para la gestión de propiedades inmobiliarias.** Proyecto en desarrollo.
 
-Aplicación móvil orientada a la gestión de tareas.
+- Desarrollo de backend con ASP.NET Core.
+- Persistencia de datos mediante Entity Framework Core y SQL Server.
+- Operaciones CRUD y validaciones.
+- Autenticación con JWT y documentación con Swagger/OpenAPI.
 
-**Tecnologías:**
-`HTML` `CSS` `JavaScript` `Angular` `TypeScript`
+**Stack:** `C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT` `Swagger`
 
----
+[Ver repositorio](https://github.com/NehuenPey/gestion-inmobiliaria)
 
-### 🐶 Sistema para peluquería canina
+### Hermanos Jota — E-Commerce
+**Aplicación de comercio electrónico desarrollada en equipo.** Proyecto en evolución.
 
-Sistema de gestión de clientes y registro de turnos.
+- Desarrollo e integración de frontend y backend.
+- API REST para consulta y administración de productos.
+- Operaciones CRUD con Express, Mongoose y MongoDB Atlas.
+- Interfaz desarrollada con React y Vite.
+- Trabajo colaborativo con Git, GitHub y metodología Scrum.
 
-**Tecnologías:**
-`HTML` `CSS` `JavaScript` `PHP` `SQL`
+**Stack:** `React` `Vite` `Node.js` `Express` `MongoDB` `Mongoose`
 
----
+[Ver repositorio](https://github.com/NehuenPey/hermanos-j-itba)
 
-### 🎮 Alice
+### Interbus — Rediseño web
+Propuesta de modernización de un sitio web de transporte, con foco en mejorar la navegación y la experiencia responsive.
 
-Videojuego en primera persona desarrollado con Unity, incorporando mecánicas de movimiento, interacción y diseño de niveles.
+**Stack:** `HTML5` `CSS3` `JavaScript`
 
-**Tecnologías:**
-`C#` `Unity`
-
----
-
-### 🎮 Hice Brujería
-
-Videojuego point-and-click con mecánicas de combinación de posiciones y sistema de puntuación máxima.
-
-**Tecnologías:**
-`C#` `Unity`
+[Ver repositorio](https://github.com/NehuenPey/interbus-web-redesign)
 
 ---
 
-## 🎯 Actualmente
+## Otros proyectos
 
-Actualmente estoy realizando un **curso de Full Stack de Santander**, donde continúo desarrollando mis conocimientos en tecnologías web y trabajando en proyectos colaborativos.
-
-Mi objetivo es incorporarme como **Desarrollador de Software Junior**, donde pueda aplicar mis conocimientos, adquirir experiencia en proyectos reales y continuar creciendo profesionalmente.
-
----
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://peyrano-nehuendev.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Ver%20Portfolio-512BD4?style=for-the-badge" />
-  </a>
-</p>
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [To-Do List](https://github.com/NehuenPey/To-Do-List) | Aplicación móvil para crear, organizar y administrar tareas. | Ionic, Angular, TypeScript |
+| [Sistema de peluquería canina](https://github.com/NehuenPey/ProyectoPeluqueria) | Sistema de gestión de clientes y turnos con operaciones CRUD. | PHP, MySQL, JavaScript |
+| [Hice Magia](https://github.com/NehuenPey/HiceMagia) | Videojuego desarrollado como proyecto de aprendizaje. | C#, Unity |
 
 ---
 
-## 📫 Contacto
+## Formación
 
-<p align="center">
-  <a href="mailto:nehuenpeyrano@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/NehuenPey">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://peyrano-nehuendev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visitar-512BD4?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+**Técnico Superior en Desarrollo de Software**  
+Instituto General Manuel Belgrano · 2023
 
 ---
 
-<p align="center">
-  <i>💡 Aprendiendo, creando y mejorando constantemente.</i>
-</p>
+## Contacto
+
+Estoy abierto a oportunidades profesionales, colaboraciones y nuevos desafíos de desarrollo.
+
+- Email: [nehuenpeyrano@gmail.com](mailto:nehuenpeyrano@gmail.com)
+- LinkedIn: [Nehuén Peyrano](https://www.linkedin.com/in/nehuenpeyrano)
+- Portfolio: [nehuenpeyranodev.vercel.app](https://nehuenpeyranodev.vercel.app/)
+- GitHub: [@NehuenPey](https://github.com/NehuenPey)
